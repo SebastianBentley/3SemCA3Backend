@@ -10,4 +10,4 @@
 - Persist users and admin to database, to get entity tables.
 - Run project using tomcat 9.
 - Using Postman, test if you can login with url/login with a user or admin object in header.
-- Test if you can acces endpoints /api/info/user, /api/info/admin and api/info/extern
+- Test if you can acces endpoints /api/info/user, /api/info/admin and api/info/extern.
