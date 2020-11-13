@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/sslhansen/3semCA3backend.svg?branch=master)](https://travis-ci.com/sslhansen/3semCA3backend)
+[![Build Status](https://travis-ci.com/SebastianBentley/3SemCA3Backend.svg?branch=master)](https://travis-ci.com/SebastianBentley/3SemCA3Backend)
 
 *This project is meant as start code for semester/exam projects for 3.sem*
 
